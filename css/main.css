@@ -72,7 +72,7 @@ background-color: #000;
     bottom: 0;
   }
 .emai {
-  width: 65%;
+  width: 75%;
   height: 80px;
   background-color: #ecf0f1;
   border: 5px;
@@ -82,6 +82,7 @@ background-color: #000;
   color:#000;
 }
 .ftt {
+  padding-top: 30px;
   width: 100%;
   height: 100px;
   background-color: #fbf9f8;
@@ -95,4 +96,7 @@ background-color: #000;
 }
 .blo {
   display: inline-block;
+}
+.underc {
+  color: #777777
 }
