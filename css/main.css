@@ -74,16 +74,16 @@ background-color: #000;
 .emai {
   width: 65%;
   height: 80px;
-  background-color: #34495e;
-  border: 4px;
-  border-color: #ecf0f1;
+  background-color: #ecf0f1;
+  border: 5px;
+  border-color: #fff;
   font-size: 35px;
   text-align: center;
-  color:#ecf0f1;
+  color:#fff;
 }
 .ftt {
   width: 100%;
-  height: 200px;
+  height: 100px;
   background-color: #fbf9f8;
 }
 .relative {
